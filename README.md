@@ -1,2 +1,3 @@
 # Belajar_Pemrograman_ALL
-# Belajar_Pemrograman_ALL
+
+# SQL,HTML,JAVA,JAVASCRIPT,PYTHON & DLL

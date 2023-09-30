@@ -1,0 +1,26 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "looping bersarang",
+    "belajar program pribadi",
+    "40-Pengenalan Array/src/com/tutorial",
+    "38-recursive bercabang/src/com/tutorial",
+    "37-Fungsi recursive/src/com/tutorial",
+    "36-latihan fungsi/src/com/tutorial",
+    "35-fungsi void tanpa return/src/com/tutorial",
+    "34-fungsi atau method (pengenalan)/src/com/tutorial",
+    "33-Looping Bersarang",
+    "31-Latihan Deret Fibonacci/src/com/tutorial",
+    "30-Latihan Loop Sederhana/src/com/tutorial",
+    "25-Latihan Kalkulator Sederhana/src/com/tutorial",
+    "24-Ternary operator/src/com/tutorial",
+    "24-Ternary operator",
+    "20-If Statement/src/com/tutorial",
+    "19-Latihan Operator Logika/src/com/tutorial",
+    "17-Latihan Aritmatika/src/com/tutorial",
+    "15-Operator Logika/src/com/tutorial",
+    "15-Operator Logika",
+    "13-Operator Assignments/src/com/tutorial",
+    "39-overload fungsi/src/com/tutorial"
+  ]
+}
